@@ -21,7 +21,7 @@ session_start();
         ?>
         <h1>Home</h1>
         <p>This is a Home Page.</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate, ut dicta! Rerum labore alias et sapiente minus quia dicta officiis accusamus porro. Voluptates, sed accusantium cum nostrum iusto quidem cupiditate provident animi molestiae vitae, saepe tenetur illum ratione inventore est alias! Rem nesciunt voluptates quis in, odio totam impedit! Laborum.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate, ut dicta! Rerum labore alias et sapiente minus quia dicta officiis accusamus porro. Voluptates, sed accusantium cum nostrum iusto quidem cupiditate provident animi molestiae vitae, saepe tenetur illum ratione inventore est alias! Rem nesciunt voluptates quis in, odio totam impedit! Laborum.Rohit Kanojiya</p>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia nemo, assumenda, dolores harum aperiam modi aut blanditiis ipsa molestiae obcaecati ducimus illo maxime expedita sint quaerat aliquam, quos sunt eligendi.</p>
     </div>
 </body>
